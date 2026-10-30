@@ -1,0 +1,30 @@
+# Built binaries and packages
+*.apk
+*.aab
+*.aar
+*.dex
+*.class
+
+# Gradle build & cache directories
+.gradle/
+build/
+app/build/
+.kotlin/
+
+# Native C/C++ NDK build directories
+.cxx/
+app/.cxx/
+.externalNativeBuild/
+obj/
+libs/
+
+# Local SDK configuration
+local.properties
+
+# Android Studio & IntelliJ files
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
